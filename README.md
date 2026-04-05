@@ -34,18 +34,18 @@ The dataset comes from multiple sources and required cleaning, transformation, a
 ### 3.1 Geographical Distribution
 - Interactive map shows property locations across Brazil
 - Most properties cluster around major urban areas
-![Map Placeholder]
+![Map Placeholder](images/map_placeholder.png)
 
 ### 3.2 Summary Statistics
 - Analyzed `area_m2` and `price_usd`
 - Price distribution is right-skewed due to few high-value properties
 - Most homes are medium-sized (50–200 m²)
-![Histogram Placeholder]
-![Boxplot Placeholder]
+![Histogram Placeholder](images/histogram_placeholder.png)
+![Boxplot Placeholder](images/boxplot_placeholder.png)
 
 ### 3.3 Mean Price by Region
 - South and Southeast regions have higher average prices
-![Bar Plot Placeholder]
+![Bar Plot Placeholder](images/barplot_placeholder.png)
 
 ### 3.4 South Region Case Study
 - Analyzed homes specifically in the South region
